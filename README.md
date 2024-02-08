@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blessed-Shammah
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Software Development
 - 🌱 I’m fresh graduate of Information Technology at Kibabii University, Kenya
-- 💞️ I’m looking to collaborate on Merchine Learning projetcts
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me iamblessedshammah@gmail.com
 
 <!---
