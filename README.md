@@ -1,5 +1,5 @@
 - @Blessed-Shammah says, 👋 Hi
-- WELCOME TO 👀 AUTOMATION EVERYWHERE
+- I do Automation, ✨ Everywhere ✨
 
 <!---
 Blessed-Shammah/Blessed-Shammah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
