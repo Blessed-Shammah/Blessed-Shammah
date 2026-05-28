@@ -1,5 +1,5 @@
 - @Blessed-Shammah says, 👋 Hi
-- I do Automation, ✨ Everywhere ✨
+Software Engineer
 
 <!---
 Blessed-Shammah/Blessed-Shammah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
